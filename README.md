@@ -41,4 +41,4 @@ If you had Premiere Pro open, close it completely and reopen it.
 5. Click **Download & Import**.
 
 **Workflow Note:** 
-The plugin will download standard videos first. Then, it will pause and spawn a popup window telling you to turn on your VPN. Turn on your VPN, click **OK**, and it will download the TikTok videos. Finally, it will automatically place all the clips into your active sequence in the exact order they appeared in the Google Doc!
+The plugin will download standard videos first. Then, it will pause and spawn a popup window telling you to turn on your VPN. This feature is added because TikTok is banned in some countries. Turn on your VPN, click **OK**, and it will download the TikTok videos. Finally, it will automatically place all the clips into your active sequence in the exact order they appeared in the Google Doc!
