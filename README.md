@@ -17,6 +17,11 @@ Because this is a custom, unsigned extension, you will need to enable `PlayerDeb
 ```powershell
 reg add "HKEY_CURRENT_USER\Software\Adobe\CSXS.11" /v PlayerDebugMode /t REG_SZ /d 1 /f
 ```
+To enable PlayerDebugMode on Mac run the following command in the Terminal application:
+```terminal
+defaults write com.adobe.CSXS.11 PlayerDebugMode 1
+```
+
 *(Note: If you are using an older version of Premiere Pro like 2020 or 2021, you may need to run the same command but replace `CSXS.11` with `CSXS.10` or `CSXS.9`)*
 
 ### Step 2: Install the Plugin Files
