@@ -30,7 +30,9 @@ defaults write com.adobe.CSXS.11 PlayerDebugMode 1
 3. If the `CEP` or `extensions` folders do not exist, create them.
 4. Copy this entire `Premiere_YTDLP_Plugin` folder into that `extensions` folder.
 
-Your final path should look like this: `C:\Users\YourName\AppData\Roaming\Adobe\CEP\extensions\Premiere_YTDLP_Plugin`
+Your final path should look like this:
+Windows: `C:\Users\YourName\AppData\Roaming\Adobe\CEP\extensions\Premiere_YTDLP_Plugin`
+Mac: `/Users/YourName/Library/Application Support/Adobe/CEP/extensions/Premiere_YTDLP_Plugin`
 
 ### Step 3: Restart Premiere Pro
 If you had Premiere Pro open, close it completely and reopen it.
